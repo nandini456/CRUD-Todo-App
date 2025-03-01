@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-
+A TODO App with CRUD Operations developed in React Native using Expo Go. Included functionalities are to create a task , cancel , delete as well as toggle to light and dark theme . Also async storage is leveraged to save the data even after the app reloads
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
